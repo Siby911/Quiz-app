@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Super classes are also called Base classes.</string>
+    <string name="question_2">Sub classes may also be called Derived classes.</string>
+    <string name="question_3">A function cannot be defined inside another function</string>
+    <string name="question_4">If return type for a function is not specified, it defaults to int</string>
+    <string name="question_5">Names of functions in two different files linked together must be unique</string>
+    <string name="question_6">It is not possible to achieve inheritance of structures in c++</string>
+    <string name="question_7">A function may have any number of return statements each returning different values.</string>
+    <string name="question_8">The assembly languages represent the only way to communicate directly with the computer</string>
+    <string name="question_9">Exceptions can be caught and rethrown</string>
+    <string name="question_10">You can only create an array of objects if the class has a default constructor.</string>
+    <string name="question_11">C++ never provides a default constructor</string>
+    <string name="question_12">In C all functions except main() can be called recursively.</string>
+    <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+
+</resources>
